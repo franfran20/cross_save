@@ -59,7 +59,7 @@ The benefit in a nutshell is that users are discouraged to default on their savi
 # Axelar Implementation
 
 The Link to the smart contract repository that conatins the code is below
-Link to smart contract repository -
+Link to smart contract repository - https://github.com/franfran20/cross_save_contracts
 
 The main functions that handle the cross chain logi via axelars cross chain messaging include:
 
@@ -70,8 +70,8 @@ The main functions that handle the cross chain logi via axelars cross chain mess
 
 1. Main Repository - https://github.com/franfran20/cross_save
 2. Smart contract repository - https://github.com/franfran20/cross_save_contracts
-3. Live demo -
-4. Video demo -
+3. Live demo - https://cross-save.vercel.app/
+4. Video demo - 
 
 # Contact
 
