@@ -6,7 +6,7 @@
 CrossSave is a blockchain-based savings application which provides passive interest to users that stick to their budgetary goals. The standout for crosssave is the interest generation, distribution and general status handling accross chains.
 CrossSave is a multi-chain application, which means it may be deployed on many chains and interact with a deployed versions of itself on different chains. The Moonbase and Fantom testnets presently host CrossSave. Both GLMR and FTM test assets are supported for savings.
 
-# How And Why CrossSavs Is Important?
+# How And Why CrossSave Is Important?
 
 [![crossimage.png](https://i.postimg.cc/VkJz15Qh/crossimage.png)](https://postimg.cc/WdcBwN4m)
 
