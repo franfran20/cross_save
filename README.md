@@ -1,4 +1,4 @@
-![cross save logo](https://ibb.co/YNsGTj3)
+![cross save logo]([https://ibb.co/YNsGTj3](https://i.postimg.cc/qMdKNVMQ/favicon.png))
 
 # What is CrossSave?
 
