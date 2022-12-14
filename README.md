@@ -1,11 +1,14 @@
-[![favicon.png](https://i.postimg.cc/qMdKNVMQ/favicon.png)](https://postimg.cc/jCZ211fJ)
 
 # What is CrossSave?
+
+[![favicon.png](https://i.postimg.cc/qMdKNVMQ/favicon.png)](https://postimg.cc/jCZ211fJ)
 
 CrossSave is a blockchain-based savings application which provides passive interest to users that stick to their budgetary goals. The standout for crosssave is the interest generation, distribution and general status handling accross chains.
 CrossSave is a multi-chain application, which means it may be deployed on many chains and interact with a deployed versions of itself on different chains. The Moonbase and Fantom testnets presently host CrossSave. Both GLMR and FTM test assets are supported for savings.
 
 # How And Why CrossSavs Is Important?
+
+[![crossimage.png](https://i.postimg.cc/VkJz15Qh/crossimage.png)](https://postimg.cc/WdcBwN4m)
 
 With the rising increase in demand for cross chain blockchain applications(which I like to call multi d'apps). CrossSave seeks to utilize the opportunity presented by crosschain capabilities to capture real yield for its users regardless of their chain of choice.
 
@@ -16,6 +19,8 @@ So what's the big deal? CrossSave facilitates this process by charging defaulter
 Let's dive into the default pool right now. The default pool is interesting since it's a CROSS CHAIN POOL, which means that a user may be charged from defaulting on their saving on the Fantom chain, another user elsewhere on the Avalanche chain, and a third user on the Polygon chain. While A user on the Moonbase chain earns interest from the defaulters accross the previously mentioned three chains. Let's go through a scenario with the tale of a crosssave section below.
 
 # The Tale Of A CrossSave Scenario
+
+[![logo.png](https://i.postimg.cc/GtM1nnMr/logo.png)](https://postimg.cc/BP1z2k9w)
 
 We'll take 4 Friends, John, Jake, Betty and Cole.
 We say John and Cole have some FTM.
