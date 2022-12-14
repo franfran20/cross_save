@@ -71,7 +71,7 @@ The main functions that handle the cross chain logi via axelars cross chain mess
 1. Main Repository - https://github.com/franfran20/cross_save
 2. Smart contract repository - https://github.com/franfran20/cross_save_contracts
 3. Live demo - https://cross-save.vercel.app/
-4. Video demo - 
+4. Video demo - https://youtu.be/6iHWoFISPWg
 
 # Contact
 
