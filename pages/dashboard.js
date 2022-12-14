@@ -267,7 +267,7 @@ export default function Dashboard() {
                         style={{ backgroundColor: "#403D39" }}
                       >
                         <h4 style={{ color: "#CCC5B9" }}>
-                          Hours Left For Savings
+                          Time Left For Savings
                         </h4>
                         <p style={{ color: "white" }}>
                           {timeStamp && stopTime ? (
