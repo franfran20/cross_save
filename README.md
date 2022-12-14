@@ -1,3 +1,5 @@
+![cross save logo](https://ibb.co/YNsGTj3)
+
 # What is CrossSave?
 
 CrossSave is a blockchain-based savings application which provides passive interest to users that stick to their budgetary goals. The standout for crosssave is the interest generation, distribution and general status handling accross chains.
