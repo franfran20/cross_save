@@ -4,15 +4,17 @@
 [![favicon.png](https://i.postimg.cc/qMdKNVMQ/favicon.png)](https://postimg.cc/jCZ211fJ)
 
 CrossSave is a blockchain-based savings application which provides passive interest to users that stick to their budgetary goals. The standout for crosssave is the interest generation, distribution and general status handling accross chains.
-CrossSave is a multi-chain application, which means it may be deployed on many chains and interact with a deployed versions of itself on different chains. The Moonbase and Fantom testnets presently host CrossSave. Both GLMR and FTM test assets are supported for savings.
+
+CrossSave is a multi-chain application, allowing it to interact with deployed copies of itself on many chains. CrossSave is currently hosted by the Moonbase and Fantom testnets. Savings are supported for GLMR and FTM test assets.
 
 # How And Why CrossSave Is Important?
 
 [![crossimage.png](https://i.postimg.cc/VkJz15Qh/crossimage.png)](https://postimg.cc/WdcBwN4m)
 
-With the rising increase in demand for cross chain blockchain applications(which I like to call multi d'apps). CrossSave seeks to utilize the opportunity presented by crosschain capabilities to capture real yield for its users regardless of their chain of choice.
+With the increased need for cross-chain blockchain applications, or multi-d'apps as I like to call them. Regardless of the chain a user chooses, CrossSave aims to take use of the potential provided by crosschain capabilities to capture actual yield for its users.
 
-CrossSave approaches passive interest generation for its users and the distribution procedure realistically. A percentage fee levied against savers who default on their savings earlier than planned is how crossSave generates interest for savers who stick their expected saving timeline. In addition to producing interests for the default pool shared by complete savers, this procedure also provides a mechanism that enables users to be tight with their savings.
+CrossSave has a realistic approach to the distribution process and passive interest generating for its users. CrossSave creates interest for savers who adhere to their intended saving timeline by charging a percentage fee to savers who default on their savings earlier than anticipated. This process not only generates income for the default pool shared by all savers, but it also offers a mechanism that allows consumers to be frugal with their savings.
+
 
 So what's the big deal? CrossSave facilitates this process by charging defaulters who fail to save a fee(50% on testnet), with the fee collected going into what CrossSave refers to as the "deafult pool." I'll describe why this default pool is unique in a moment. When other savers who adhere to their specified time to break their savings take a withdrawal, they will receive a percentage from the default pool based NOT on how much they have saved but on how LONG they have saved.
 
